@@ -1,14 +1,12 @@
 ---
 permalink: /
-title: "Welcome to Paige's websites!"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Thanks for visiting my website!
+Hi, I'm Burak. I'm a dedicated Full Stack Developer with three years of experience and currently working at Hisar Hospital Intercontinental. Throughout my professional background, I've developed web, desktop and mobile applications. I have experience with various programming languages ​​and frameworks. I work to apply SOLID principles and write clean and efficient code. I thrive on learning and applying new technologies to solve complex problems.
 
-Paige's personal website
-======
-Take a look at the links above to learn more about me!
+Thanks for visiting my website!
